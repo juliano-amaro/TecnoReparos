@@ -1,0 +1,5 @@
+{
+  "name": "TecnoReparos - Gerenciador de O.S.",
+  "description": "Um sistema web para técnicos da TecnoReparos gerenciarem Ordens de Serviço (O.S.), permitindo cadastro, visualização, edição e atualização de status dos reparos.",
+  "requestFramePermissions": []
+}
